@@ -25,7 +25,7 @@
 *  Adicionar .ZIP da dependência de biblioteca Javino ao código fonte da aplicação Arduino.
 
 ## Preparação em hardware
-*  Conectar circuitos de acordo com a imagem abaixo
+*  Conectar circuitos de acordo com a imagem abaixo:
   ![alt text](https://github.com/eduardojandre/tempchart/blob/master/circuitov2.png)
   
   Retirado de https://learn.adafruit.com/tmp36-temperature-sensor/using-a-temp-sensor
@@ -33,7 +33,7 @@
 
 ## Procedimentos de hardware/software
 *  Carregar script (arduino_codev2.ino) Arduino na placa através da IDE.
-*  Adicionar capacitor ligado nos pinos RESET (positivo) e GND (negativo).
+*  Ligar capacitor ao Arduino nos pinos RESET (positivo) e GND (negativo).
 *  Abrir a aplicação Java e executar a classe principal (Main.java).
 
 ## Exemplo de execução
