@@ -26,7 +26,9 @@
 
 ## Preparação em hardware
 *  Conectar circuitos de acordo com a imagem abaixo
-  [INSERIR IMAGEM AQUI]
+  ![alt text](https://github.com/eduardojandre/tempchart/blob/master/circuitov2.png)
+  
+  Retirado de https://learn.adafruit.com/tmp36-temperature-sensor/using-a-temp-sensor
 *  Conectar Arduino ao computador pela porta USB (COM4)
 
 ## Procedimentos de hardware/software
@@ -35,7 +37,7 @@
 *  Abrir a aplicação Java e executar a classe principal (Main.java).
 
 ## Exemplo de execução
-[Inserir Screenshot aqui]
+![alt text](https://github.com/eduardojandre/tempchart/blob/master/captura.png)
 
 
 
